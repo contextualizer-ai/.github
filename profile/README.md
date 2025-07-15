@@ -9,5 +9,7 @@ Looking into the limits of
 inspired by 
 - https://github.com/berkeleybop/contextualizer/
 - https://github.com/monarch-initiative/aurelian
+- https://github.com/monarch-initiative/cookiecutter-mcp
+- https://github.com/monarch-initiative/oak-mcp
 
 see also: https://github.com/microbiomedata/nmdc-mcp
