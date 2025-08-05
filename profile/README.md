@@ -13,3 +13,5 @@ inspired by
 - https://github.com/monarch-initiative/oak-mcp
 
 see also: https://github.com/microbiomedata/nmdc-mcp
+
+For evaluating the performance of these and similar MCP servers, try https://github.com/ai4curation/metacoder
