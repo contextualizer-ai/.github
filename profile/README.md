@@ -11,6 +11,7 @@ inspired by
 - https://github.com/monarch-initiative/aurelian
 - https://github.com/monarch-initiative/cookiecutter-mcp
 - https://github.com/monarch-initiative/oak-mcp
+- https://github.com/ber-data/bertron-mcp
 
 see also: https://github.com/microbiomedata/nmdc-mcp
 
